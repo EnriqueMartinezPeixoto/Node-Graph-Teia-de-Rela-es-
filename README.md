@@ -1,4 +1,4 @@
-# 🕸️ Node Canvas | Teia de Nós
+# 🕸️ Node Graph | Teia de Nós
 
 An infinite node graph canvas for organizing ideas, projects, mind maps, characters, and complex structures. It runs entirely as a single HTML file with no installation or servers required. Everything saves automatically right in your browser.
 Um quadro infinito de nós (node graph) para organizar ideias, projetos, mapas mentais, personagens e estruturas complexas. Funciona em um único arquivo HTML, sem instalação e sem servidor. Tudo é salvo automaticamente direto no navegador.
